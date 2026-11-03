@@ -1,0 +1,23 @@
+{
+  "project": "AUVQEN IMS",
+  "version": "1.1.0",
+  "archive_inspected": "IMS-GitHub-Export-v1.1(1).zip",
+  "exported_vba_source_files": 110,
+  "counts": {
+    ".bas": 39,
+    ".frm": 25,
+    ".frx": 25,
+    ".cls": 21
+  },
+  "forms_pairing": {
+    "frm_files": 25,
+    "frx_files": 25,
+    "all_pairs_match": true
+  },
+  "workbook": {
+    "path": "IMS-v1.1.0.xlsm",
+    "bytes": 1415573,
+    "sha256": "0928505e99a3fbd7da8c782875b274f22b1e81536f76b697da4e86b7747d27cc"
+  },
+  "note": "File presence and checksums do not certify runtime correctness, completeness of VBA export, or privacy of workbook data."
+}

@@ -1,0 +1,15 @@
+\
+root = true
+
+[*]
+charset = utf-8
+insert_final_newline = true
+
+[*.{md,txt,json,yml,yaml,xml}]
+end_of_line = lf
+
+[*.{bas,cls,frm}]
+end_of_line = crlf
+
+[*.{xlsm,xlsx,xlsb,frx,png,jpg,jpeg,pdf,docx,zip}]
+charset = unset

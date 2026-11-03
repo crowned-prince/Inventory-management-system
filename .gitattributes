@@ -1,0 +1,34 @@
+\
+# Default text detection
+* text=auto
+
+# VBA source text: use Windows line endings when Git performs checkout
+*.bas text eol=crlf
+*.cls text eol=crlf
+*.frm text eol=crlf
+
+# Documentation and common text metadata
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.xml text eol=lf
+*.ini text eol=lf
+*.editorconfig text eol=lf
+
+# Excel workbooks and UserForm resource files are binary
+*.xlsm binary
+*.xlsb binary
+*.xlsx binary
+*.frx binary
+
+# Images and packaged documents are binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.docx binary
+*.zip binary

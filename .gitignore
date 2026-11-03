@@ -1,0 +1,44 @@
+\
+# Microsoft Office temporary/lock files
+~$*.xls*
+~$*.doc*
+*.tmp
+*.bak
+*.wbk
+*.xlk
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and local workspace settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local logs and transient output
+*.log
+/logs/
+/temp/
+/tmp/
+
+# Local backups and user data (keep approved fixtures under version control explicitly)
+/backups/
+/local-data/
+/user-data/
+/exports/
+
+# Python cache (only relevant if tooling is added later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build output
+/build/
+/dist/
